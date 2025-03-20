@@ -24,7 +24,7 @@ namespace ToDoListTgBOT
     public class Program
 
     {
-        static string token = "7074588692:AAF2wWRNb2bjsek7xHPmGCLOXLw5SssqkAc";
+        static string token = "";
 
         static void Main()
         {
